@@ -36,7 +36,7 @@ Here are a few highlights from my portfolio (see pinned repositories for details
 ---
 
 ## 📫 Let's Connect!
-- LinkedIn: [linkedin.com/in/paul-wale-oluniyi](https://linkedin.com/in/paul-wale-oluniyi)
+- LinkedIn: [linkedin](https://linkedin.com/in/paul-wale-oluniyi)
 - Email: oluniyipaul001@gmail.com
 
 💡 *"Data doesn’t just tell a story — it drives the next chapter-Decisons."*
