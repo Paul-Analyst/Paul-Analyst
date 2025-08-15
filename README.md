@@ -1,16 +1,18 @@
-## Hi there 👋
+# Data Portfolio — Paul Oluniyi
 
-<!--
-**Paul-Analyst/Paul-Analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my data analytics portfolio. This repository showcases selected **Excel** and **Power BI** projects with clear business context, reproducible steps, and quantified impact.
 
-Here are some ideas to get you started:
+## Featured Projects
+### Excel
+- [Cars45 Sales Report](Excel/Cars45-Sales-Report/README.md) — Sales performance analysis with PivotTables and Power Query.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Power BI
+- [Titanic Passenger Analysis Dashboard](PowerBI/Titanic-Dashboard/README.md) — Demographic survival analysis.
+- [Global GDP Analysis Dashboard](PowerBI/GDP-Dashboard/README.md) — Macroeconomic trends visualization.
+
+## Skills & Tools
+Excel (Power Query, PivotTables, Charts) · Power BI (DAX, Data Modeling) · SQL (basic) · Data Cleaning · KPI Design · Dashboarding
+
+## Contact
+- **LinkedIn:** linkedin.com/in/your-handle
+- **Email:** your.email@example.com
