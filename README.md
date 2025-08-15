@@ -11,8 +11,8 @@ Welcome to my data analytics portfolio. This repository showcases selected **Exc
 - [Global GDP Analysis Dashboard](PowerBI/GDP-Dashboard/README.md) — Macroeconomic trends visualization.
 
 ## Skills & Tools
-Excel (Power Query, PivotTables, Charts) · Power BI (DAX, Data Modeling) · SQL (basic) · Data Cleaning · KPI Design · Dashboarding
+Excel (Power Query, PivotTables, Charts) · Power BI (DAX, Data Modeling) · SQL · Data Cleaning · KPI Design · Dashboarding
 
 ## Contact
-- **LinkedIn:** linkedin.com/in/your-handle
-- **Email:** your.email@example.com
+- **LinkedIn:** linkedin.com/in/paul-wale-oluniyi
+- **Email:** oluniyipaul001@gmail.com
