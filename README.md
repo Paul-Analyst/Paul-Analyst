@@ -17,9 +17,10 @@ Here are a few highlights from my portfolio (see pinned repositories for details
 
 ## 🛠️ Skills & Tools
 **Data Analysis & Visualization**
-- Excel (Power Query, PivotTables, Charts, Conditional Formatting)
-- Power BI (Data Modeling, DAX, Bookmarks, Drill-through)
-- SQL (basic queries for data extraction)
+- Excel (Power Query, PivotTables, XLOOKUP, Conditional Formatting, Visualization)
+- Power BI (Data Modeling, DAX, Drill-through, Visualization and Storytelling)
+- SQL
+- Python
 
 **Workflow & Collaboration**
 - GitHub for version control & portfolio hosting
