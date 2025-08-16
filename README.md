@@ -1,6 +1,6 @@
 # Hi there, I'm Paul Oluniyi 👋
 
-🎯 **Data & Reporting Specialist | Excel & Power BI Enthusiast | KPI-Driven Analyst**
+🎯 **Data & Reporting Specialist | EXCEL  POWERBI  SQL  PYTHON  | KPI-Driven Analyst**
 
 Welcome to my corner of GitHub! I specialize in turning raw data into clear, actionable insights through interactive dashboards and data storytelling. My background spans **customer support analytics**, **telecom project reporting**, and **environmental data analysis** — always with a focus on measurable impact.
 
