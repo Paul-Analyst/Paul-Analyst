@@ -9,9 +9,9 @@ Welcome to my corner of GitHub! I specialize in turning raw data into clear, act
 ## 🚀 Featured Projects
 Here are a few highlights from my portfolio (see pinned repositories for details):
 
-- 📊 **[Cars45 Sales Report (Excel)](https://github.com/your-username/data-portfolio/tree/main/Excel/Cars45-Sales-Report)** — Boosted sales forecasting accuracy by **20%** with a data-driven Excel dashboard.
-- 🚢 **[Titanic Passenger Dashboard (Power BI)](https://github.com/your-username/data-portfolio/tree/main/PowerBI/Titanic-Dashboard)** — Demographic survival analysis for data storytelling.
-- 🌍 **[Global GDP Dashboard (Power BI)](https://github.com/your-username/data-portfolio/tree/main/PowerBI/GDP-Dashboard)** — Macro-economic trend comparisons by country and year.
+- 📊 **[Cars45 Sales Report](https://github.com/your-username/data-portfolio/tree/main/Excel/Cars45-Sales-Report)** — Boosted sales forecasting accuracy by **20%** with a data-driven Excel dashboard.
+- 🚢 **[Titanic Passenger Dashboard](https://github.com/your-username/data-portfolio/tree/main/PowerBI/Titanic-Dashboard)** — Demographic survival analysis for data storytelling.
+- 🌍 **[Global GDP Dashboard](https://github.com/your-username/data-portfolio/tree/main/PowerBI/GDP-Dashboard)** — Macro-economic trend comparisons by country and year.
 
 ---
 
